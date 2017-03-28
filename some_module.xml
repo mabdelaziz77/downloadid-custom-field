@@ -1,0 +1,24 @@
+<config>
+  <fields name="params">
+    <fieldset name="basic" addfieldpath="/modules/mod_somemodule/assets/fields">
+    
+    ...
+    
+      <field
+        name="dlid"
+        type="downloadid"
+        label="Download ID"
+        description="Downlaod ID description"
+        default=""
+        extension="Some Module"
+        key="dlid"
+      />
+    
+    ...
+    
+    </fieldset>
+  </fields>
+</config>
+<updateservers>
+  <server type="extension" name="Some Module" priority="1">http://www.yourwebsite.com/somemodule_update.xml</server>
+</updateservers>
