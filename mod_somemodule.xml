@@ -8,7 +8,7 @@
         name="dlid"
         type="downloadid"
         label="Download ID"
-        description="Downlaod ID description"
+        description="Download ID description"
         default=""
         extension="Some Module"
         key="dlid"
