@@ -54,7 +54,7 @@ This is an example of a module installation file, let's say mod\_somemodule.xml
 
 Important
 
-The Download ID field has two important additional attributes, _**extension**_ and \_**key **\_where:
+The Download ID field has two important additional attributes, _**extension**_ and _**key**_ where:
 
 _**extension**_: must be the same as the _name_ attribute of &lt;server&gt;, this is very important to set the update the correct record in the update\_sites table.
 
