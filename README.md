@@ -28,7 +28,7 @@ This is an example of a module installation file, let's say mod\_somemodule.xml
 
 `label="Download ID"`
 
-`description="Downlaod ID description"`
+`description="Download ID description"`
 
 `default=""`
 
