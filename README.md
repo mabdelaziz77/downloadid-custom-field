@@ -62,7 +62,7 @@ _**key**_: has a default value of "dlid" which is used with Akeeba Subs & Releas
 
 > Note:
 >
-> I developed and tested this custom field in the [JED Stats Pro](http://www.joomreem.com/extensions-store/jed-stats-pro) module.
+> I developed and tested this custom field in the [Stats Pro for JED](http://www.joomreem.com/extensions-store/jed-stats-pro) module.
 >
 > Any comments or suggessions are welcome.
 >
